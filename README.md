@@ -1,4 +1,4 @@
-+-This file designed for Profil Software created by Kursat Aslan  according to task requirements. 
+--This file designed for Profil Software created by Kursat Aslan  according to task requirements. 
 
 -For future usage it can easly modify. 
 
